@@ -18,3 +18,6 @@ CSCI 201 - Lab 10 with Alice &amp;&amp; Bob
 
 ###Favorite Octocat
   +![Alt text](http://octodex.github.com/goretocat/ "Octocat")
+  
+  ###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
